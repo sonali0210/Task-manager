@@ -34,3 +34,30 @@ npm install
 
 Run the development server:
 npm start
+
+
+
+Future Scope
+
+- **Task Prioritization & Deadlines**
+Add due dates, reminders, and priority levels (High/Medium/Low).
+- **Collaboration Features**
+Shared projects, assigning tasks to team members, role-based access (Admin/User).
+- **Analytics Dashboard**
+Charts showing completed vs pending tasks, productivity trends.
+- **Integrations**
+Calendar sync (Google Calendar, Outlook), notifications via email or Slack.
+- **Mobile-Friendly Experience**
+Responsive design or even a React Native app for mobile users.
+
+
+Decision-Making Framework
+
+- **User-Centric**: 
+Always ask, “Does this feature solve a real pain point?”
+- **Scalability**: 
+Design APIs and database schemas that can grow with more users.
+- **Polish vs. Functionality**: 
+Balance between adding new features and refining existing ones (UI/UX, performance).
+- **Interview Readiness**: 
+Highlight features that show technical depth (auth flows, context management, deployment).
