@@ -35,8 +35,8 @@ npm install
 Run the development server:
 npm start
 
-
-
+Deployment: 
+https://taskmanager-nivdzf9bt-sonali0210s-projects.vercel.app
 
 
 Future Scope
